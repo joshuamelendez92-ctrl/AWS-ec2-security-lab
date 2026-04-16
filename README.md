@@ -42,3 +42,31 @@ The goal of this lab was to gain hands-on experience with AWS by creating and se
 - Successfully deployed and accessed EC2 instance
 - Configured secure access using SSH
 - Learned basic cloud security practice
+
+ 📸 Screenshots
+![AWS Setup](aws1.png)
+![Security Group](aws2.png)
+![EC2 Terminal](aws3.png)
+![Apache Running](aws4.png)
+![Web Server](aws5.png)
+![Live Site](aws6.png)
+![Logs](aws7.png)
+
+
+
+
+---
+
+
+
+## 📚 Skills Gained
+
+- AWS cloud fundamentals
+
+- EC2 deployment
+
+- Network security configuration
+
+- Linux command-line usage
+
+
